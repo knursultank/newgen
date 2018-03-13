@@ -1,1 +1,2 @@
 # newgen
+@author: Nurs Kudaibergen
